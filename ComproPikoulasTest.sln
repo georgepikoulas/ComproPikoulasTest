@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35521.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComproPikoulasTest.Core", "ComproPikoulasTest.Core\ComproPikoulasTest.Core.csproj", "{0B8009DF-0628-4263-B0D2-6AD7B91E3E3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComproPikoulasTest.API", "ComproPikoulasTest.API\ComproPikoulasTest.API.csproj", "{8B0AFD34-83B1-46EA-9210-63E26AFD83BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComproPikoulasTest.Utility", "ComproPikoulasTest.Utility\ComproPikoulasTest.Utility.csproj", "{8822E40E-A0B0-4907-9F3B-A50C8B957BE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComproPikoulasTest.Data", "ComproPikoulasTest.Data\ComproPikoulasTest.Data.csproj", "{AA501F93-4EB6-4B04-B440-BCDFD61939FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComproPikoulasTest.Business", "ComproPikoulasTest.Business\ComproPikoulasTest.Business.csproj", "{CF5F3FF0-6C89-41A0-8589-B303EF21AE3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B8009DF-0628-4263-B0D2-6AD7B91E3E3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B8009DF-0628-4263-B0D2-6AD7B91E3E3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B8009DF-0628-4263-B0D2-6AD7B91E3E3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B8009DF-0628-4263-B0D2-6AD7B91E3E3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B0AFD34-83B1-46EA-9210-63E26AFD83BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B0AFD34-83B1-46EA-9210-63E26AFD83BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B0AFD34-83B1-46EA-9210-63E26AFD83BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B0AFD34-83B1-46EA-9210-63E26AFD83BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8822E40E-A0B0-4907-9F3B-A50C8B957BE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8822E40E-A0B0-4907-9F3B-A50C8B957BE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8822E40E-A0B0-4907-9F3B-A50C8B957BE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8822E40E-A0B0-4907-9F3B-A50C8B957BE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA501F93-4EB6-4B04-B440-BCDFD61939FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA501F93-4EB6-4B04-B440-BCDFD61939FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA501F93-4EB6-4B04-B440-BCDFD61939FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA501F93-4EB6-4B04-B440-BCDFD61939FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF5F3FF0-6C89-41A0-8589-B303EF21AE3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF5F3FF0-6C89-41A0-8589-B303EF21AE3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF5F3FF0-6C89-41A0-8589-B303EF21AE3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF5F3FF0-6C89-41A0-8589-B303EF21AE3E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
